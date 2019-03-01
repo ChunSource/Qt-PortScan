@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="/">ico.ico</file>
+        <file>mini.png</file>
+        <file>resizeApi.png</file>
+        <file>close.png</file>
+    </qresource>
+</RCC>
